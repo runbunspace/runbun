@@ -1,0 +1,14 @@
+
+body { 	background-color: #abcfc5;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 4px dotted #7c809b;
+	padding: 100px 100px 100px 100px;
+	font-family: Helvetica Neue, sans-serif; }
+
+h1 { 	border-bottom: 4px dotted #7c809b;
+	color: #242038 }
+
+h2 {	color: #242038 }
+
+p {	color: #7c809b }
