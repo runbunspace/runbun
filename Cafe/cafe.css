@@ -6,13 +6,14 @@ body { 	background-color: #abcfc5;
 	padding: 100px 100px 100px 100px; }
 
 h1 { 	border-bottom: 4px dotted #7c809b;
-	color: #242038; }
+	color: #242038;
+	font-size: 50px; }
 
 h2 {	color: #242038; }
 
 p {	color: #7c809b }
 
 /* fonts */
-.fang {		font-family: "FangSong", "Candara"; }
-.gulim {	font-family: "Gulim", "Candara"; }
-.mvboli { 	font-family: "MV Boli", "Candara"; }
+.fang {		font-family: "FangSong", Arial, sans-serif; }
+.gulim {	font-family: "Gulim", Arial, sans-serif; }
+.mvboli { 	font-family: "MV Boli", Arial, sans-serif; }
