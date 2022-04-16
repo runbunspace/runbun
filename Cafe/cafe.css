@@ -9,6 +9,11 @@ body { 	background-color: #abcfc5;
 h1 { 	border-bottom: 4px dotted #7c809b;
 	color: #242038 }
 
-h2 {	color: #242038 }
+h2 {	color: #242038
+	font-family: Gulim; }
 
 p {	color: #7c809b }
+
+p.garden { font-family: Gulim; }
+
+p.elements { font-family: Segoe Script; }
