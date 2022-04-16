@@ -3,17 +3,18 @@ body { 	background-color: #abcfc5;
 	margin-left: 20%;
 	margin-right: 20%;
 	border: 4px dotted #7c809b;
-	padding: 100px 100px 100px 100px;
-	font-family: Helvetica Neue, sans-serif; }
+	padding: 100px 100px 100px 100px; }
 
 h1 { 	border-bottom: 4px dotted #7c809b;
-	color: #242038 }
+	color: #242038; }
 
-h2 {	color: #242038
-	font-family: Gulim; }
+h1.head1 {	font-family: "FangSong"; }
+
+h2 {	color: #242038; }
+
+h2.head2 {	font-family: "Gulim"; }
 
 p {	color: #7c809b }
 
-p.garden { font-family: Gulim; }
-
-p.elements { font-family: Segoe Script; }
+p.garden {	font-family: "Gulim"; }
+p.elements { 	font-family: "Segoe Script"; }
