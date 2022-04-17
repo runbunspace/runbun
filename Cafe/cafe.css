@@ -23,7 +23,8 @@ p {	color: 		#444444;
 
 mark {	background-color: #c8ebe1; }
 
-#footer {  }
+#foot {	font-size:	small;
+	color:		#7c809b; }
 
 .padleft { padding-left: 15px;}
 
