@@ -12,9 +12,12 @@ h1 { 	border-bottom: 	4px dotted #7c809b;
 	font-size: 	2em; }
 
 h2 {	color: 		#242038;
-	font-size: 	1.4em }
+	font-size: 	1.4em; }
 
-p {	color: #444444 }
+p {	color: 		#444444;
+	padding-top: 	4px; }
+
+.padleft { padding-left: 15px;}
 
 /* fonts */
 .fang {		font-family: "FangSong", Arial, sans-serif; }
@@ -22,11 +25,3 @@ p {	color: #444444 }
 .mvboli { 	font-family: "MV Boli", Arial, sans-serif; }
 
 
-.bun { 	 background-image: 	url(/runbun/bun1.png); }
-.chai {  background-image: 	url(/runbun/Cafe/chaibun.png); }
-.wild {  background-image: 	url(/runbun/Cafe/wildbun.png); }
-.mocha { background-image: 	url(/runbun/Cafe/mocha.png); }
-
-.bun, .chai, .wild, .mocha {
-	background-repeat:	no-repeat;
-	background-position:	bottom right; }
