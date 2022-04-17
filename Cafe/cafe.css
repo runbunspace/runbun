@@ -1,19 +1,32 @@
 
-body { 	background-color: #abcfc5;
-	margin-left: 20%;
-	margin-right: 20%;
-	border: 4px dotted #7c809b;
-	padding: 100px 100px 100px 100px; }
+body { 	background-color: 	#abcfc5;
+	margin-left: 		10%;
+	margin-right: 		10%;
+	border: 		4px dotted #7c809b;
+	padding: 		20px;
+	font-size: 		medium;
+	background-image:	url(/runbun/flowerbg.png); }
 
-h1 { 	border-bottom: 4px dotted #7c809b;
-	color: #242038;
-	font-size: 50px; }
+h1 { 	border-bottom: 	4px dotted #7c809b;
+	color: 		#242038;
+	font-size: 	2em; }
 
-h2 {	color: #242038; }
+h2 {	color: 		#242038;
+	font-size: 	1.4em }
 
-p {	color: #7c809b }
+p {	color: #444444 }
 
 /* fonts */
 .fang {		font-family: "FangSong", Arial, sans-serif; }
 .gulim {	font-family: "Gulim", Arial, sans-serif; }
 .mvboli { 	font-family: "MV Boli", Arial, sans-serif; }
+
+
+.bun { 	 background-image: 	url(/runbun/bun1.png); }
+.chai {  background-image: 	url(/runbun/Cafe/chaibun.png); }
+.wild {  background-image: 	url(/runbun/Cafe/wildbun.png); }
+.mocha { background-image: 	url(/runbun/Cafe/mocha.png); }
+
+.bun, .chai, .wild, .mocha {
+	background-repeat:	no-repeat;
+	background-position:	bottom right; }
