@@ -15,12 +15,13 @@ h1 { 	border-bottom: 	4px dotted #7c809b;
 
 h2 {	color: 		#242038;
 	font-size: 	1.4em;
-	font-weight: 	bold;
+	font-weight: 	normal;
 	margin-bottom:	0; }
 
 p {	color: 		#444444;
 	margin-top: 	0; }
 
+#bod {	background-color: #d5dedb; }
 #foot {	font-size:	0.4em;
 	color:		#7c809b; }
 
