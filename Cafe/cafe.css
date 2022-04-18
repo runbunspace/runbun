@@ -21,9 +21,7 @@ h2 {	color: 		#242038;
 p {	color: 		#444444;
 	margin-top: 	0; }
 
-mark {	background-color: #c8ebe1; }
-
-#foot {	font-size:	small;
+#foot {	font-size:	0.4em;
 	color:		#7c809b; }
 
 .padleft { padding-left: 15px;}
