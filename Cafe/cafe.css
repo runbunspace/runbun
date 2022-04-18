@@ -22,7 +22,7 @@ p {	color: 		#444444;
 	margin-top: 	0; }
 
 #bod {	background-color: 	#c8ebe1;
-	border:			2px dashed #abcfc5; }
+	border:			4px outset #abcfc5; }
 
 #foot {	font-size:	0.4em;
 	color:		#7c809b; }
