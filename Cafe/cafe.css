@@ -4,8 +4,7 @@ body { 	background-color: 	#abcfc5;
 	margin-right: 		15%;
 	border: 		4px dotted #7c809b;
 	padding: 		20px;
-	font-family:		Arial, sans-serif;
-	font-size: 		medium;
+	font:			medium Arial, sans-serif;
 	background-image:	url(/runbun/flowerbg.png); }
 
 h1 { 	border-bottom: 	4px dotted #7c809b;
@@ -18,16 +17,27 @@ h2 {	color: 		#242038;
 	font-weight: 	normal;
 	margin-bottom:	0; }
 
+h3 {	color:		#242038; }
+
 p {	color: 		#444444;
 	margin-top: 	0; }
 
 #bod {	background-color: 	#c8ebe1;
 	border:			4px outset #abcfc5; }
 
-#foot {	font-size:	0.4em;
-	color:		#7c809b; }
+#cannabun { float:		right;
+	font-size:		0.8em;
+	text-align:		center;
+	margin:			10%;
+	padding:		10px;
+	border:			4px dashed #abcfc5;
+	background-image: 	url(/runbun/cafe/gummybg.png); }
 
-.padleft { padding-left: 15px;}
+#foot {	font-size:	0.4em;
+	color:		#7c809b;
+	margin-top:	30px; }
+
+.padleft { padding-left: 15px; }
 
 /* fonts */
 .fang {		font-family: "FangSong" }
