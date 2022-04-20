@@ -17,10 +17,6 @@ h2 {	color: 		#242038;
 	font-weight: 	normal;
 	margin-bottom:	0; }
 
-h3 {	color:		#242038;
-	font-size:	0.5em;
-	margin:		0; }
-
 p {	color: 		#444444;
 	margin-top: 	0; }
 
@@ -30,17 +26,24 @@ p {	color: 		#444444;
 #cannabun { float:		right;
 	font-size:		0.8em;
 	font-weight:		bold;
+	color:			#242038;
 	text-align:		center;
 	margin:			10%;
 	padding:		10px;
 	border:			4px dashed #abcfc5;
 	background-image: 	url(/runbun/Cafe/gummybg.png); }
 
+#gum {	height:	100px;
+	width:	100px; }
+
+
 #foot {	font-size:	0.4em;
 	color:		#7c809b;
-	margin-top:	30px; }
+	margin-top:	30px;
+	margin-bottom:	10px; }
 
 .padleft { padding-left: 15px; }
+.small { font-size:	0.6em; }
 
 /* fonts */
 .fang {		font-family: "FangSong" }
