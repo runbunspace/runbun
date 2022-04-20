@@ -28,14 +28,16 @@ p {	color: 		#444444;
 	color:			#242038;
 	text-align:		center;
 	margin:			10%;
-	margin-top:		0;
 	padding:		10px;
 	border:			4px dashed #abcfc5;
 	background-image: 	url(/runbun/Cafe/gummybg.png); }
 #cannabun h3 {	font-size:	0.5em;
-		margin-bottom:	5%; }
+		margin-bottom:	0; }
 #cannabun p {	font-size	0.8em;
-		margin:		0; }
+		margin:		0;
+		padding:	0, 10px; }
+cannabun img {	margin:		0;
+		padding:	0; }
 
 #foot {	font-size:	0.4em;
 	color:		#7c809b;
