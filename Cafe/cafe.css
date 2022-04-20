@@ -24,7 +24,6 @@ p {	color: 		#444444;
 	border:			4px outset #abcfc5; }
 
 #cannabun { float:		right;
-	font-weight:		bold;
 	color:			#242038;
 	text-align:		center;
 	margin:			10%;
@@ -32,7 +31,8 @@ p {	color: 		#444444;
 	border:			4px dashed #abcfc5;
 	background-image: 	url(/runbun/Cafe/gummybg.png); }
 #cannabun h3 {	font-size:	0.5em;
-		margin-bottom:	0; }
+		font-weight:	bold;
+		margin:		0; }
 #cannabun p {	font-size	0.8em;
 		margin:		0;
 		padding:	0, 10px; }
