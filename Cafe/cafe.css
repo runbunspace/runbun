@@ -23,20 +23,20 @@ p {	color: 		#444444;
 #bod {	background-color: 	#c8ebe1;
 	border:			4px outset #abcfc5; }
 
-#cannabun { float:		right;
+#gummybun { float:		right;
 	color:			#242038;
 	text-align:		center;
 	margin:			10%;
 	padding:		10px;
 	border:			4px dashed #abcfc5;
 	background-image: 	url(/runbun/Cafe/gummybg.png); }
-#cannabun h3 {	font-size:	0.5em;
+#gummybun h3 {	font-size:	0.5em;
 		font-weight:	bold;
 		margin:		0; }
-#cannabun p {	font-size	0.8em;
+#gummybun p {	font-size	0.8em;
 		margin:		0;
 		padding:	0, 10px; }
-cannabun img {	margin:		0;
+#gummybun img {	margin:		0;
 		padding:	0; }
 
 #foot {	font-size:	0.4em;
